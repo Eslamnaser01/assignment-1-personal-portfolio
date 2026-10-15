@@ -1,0 +1,119 @@
+
+.imgge {
+    width: 10%;
+        float: left;
+    
+
+
+
+}
+
+.clear {
+    clear: both;
+}
+
+img {
+    width: 80px;
+    border-radius: 50%;
+    height: 70px;
+
+}
+
+
+
+
+.name {
+    border: solid black;
+        background-color: beige;
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+
+
+.about {
+    border: solid black;
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.Experience {
+    border: solid black;
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.skils {
+    border: solid black;
+    width: 60%;
+    margin: auto;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.contact {
+    border: solid black;
+    width: 60%;
+    padding: 10px;
+        margin: auto;
+    border-radius: 10px;
+}
+
+.non{    border: solid black;
+    width: 60%;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: bisque;
+}
+
+
+.ab{padding: 10px;
+width: 10%;
+display: inline-block;
+margin-left: 10%;
+
+}
+
+
+.ex{padding:10px;
+width: 10%;
+display: inline-block;
+margin-left: 10%;
+
+}
+
+.co{padding: 10px;
+width: 10%;
+display: inline-block;
+margin-left: 10%;
+
+}
+
+.sk{padding: 10px;
+width: 10%;
+display: inline-block;
+margin-left: 10%;
+}
+
+
+
+
+
+h1 {
+    border-bottom: solid black;
+}
+
+h2 {
+    border-bottom: solid black;
+}
+
+h3{margin-left: 35%;}
